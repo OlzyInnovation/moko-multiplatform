@@ -62,7 +62,7 @@ More detailed guide for contributers see in [contributing guide](CONTRIBUTING.md
 
 ## License
         
-    Copyright 2021 IceRock MAG Inc
+    Copyright 2021 Olinny MAG Inc
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
